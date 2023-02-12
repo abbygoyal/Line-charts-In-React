@@ -1,6 +1,6 @@
 ## Line charts
 
-Create Line charts In React using ##Recharts
+Create Line charts In React using Recharts
 
 ## Live Project Link
 
